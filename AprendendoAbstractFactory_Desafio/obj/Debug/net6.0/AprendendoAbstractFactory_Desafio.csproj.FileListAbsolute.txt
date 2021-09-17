@@ -1,0 +1,15 @@
+C:\Users\ester.silva\source\repos\AprendendoAbstractFactory_Desafio\AprendendoAbstractFactory_Desafio\bin\Debug\net6.0\AprendendoAbstractFactory_Desafio.exe
+C:\Users\ester.silva\source\repos\AprendendoAbstractFactory_Desafio\AprendendoAbstractFactory_Desafio\bin\Debug\net6.0\AprendendoAbstractFactory_Desafio.deps.json
+C:\Users\ester.silva\source\repos\AprendendoAbstractFactory_Desafio\AprendendoAbstractFactory_Desafio\bin\Debug\net6.0\AprendendoAbstractFactory_Desafio.runtimeconfig.json
+C:\Users\ester.silva\source\repos\AprendendoAbstractFactory_Desafio\AprendendoAbstractFactory_Desafio\bin\Debug\net6.0\AprendendoAbstractFactory_Desafio.dll
+C:\Users\ester.silva\source\repos\AprendendoAbstractFactory_Desafio\AprendendoAbstractFactory_Desafio\bin\Debug\net6.0\ref\AprendendoAbstractFactory_Desafio.dll
+C:\Users\ester.silva\source\repos\AprendendoAbstractFactory_Desafio\AprendendoAbstractFactory_Desafio\bin\Debug\net6.0\AprendendoAbstractFactory_Desafio.pdb
+C:\Users\ester.silva\source\repos\AprendendoAbstractFactory_Desafio\AprendendoAbstractFactory_Desafio\obj\Debug\net6.0\AprendendoAbstractFactory_Desafio.csproj.AssemblyReference.cache
+C:\Users\ester.silva\source\repos\AprendendoAbstractFactory_Desafio\AprendendoAbstractFactory_Desafio\obj\Debug\net6.0\AprendendoAbstractFactory_Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ester.silva\source\repos\AprendendoAbstractFactory_Desafio\AprendendoAbstractFactory_Desafio\obj\Debug\net6.0\AprendendoAbstractFactory_Desafio.AssemblyInfoInputs.cache
+C:\Users\ester.silva\source\repos\AprendendoAbstractFactory_Desafio\AprendendoAbstractFactory_Desafio\obj\Debug\net6.0\AprendendoAbstractFactory_Desafio.AssemblyInfo.cs
+C:\Users\ester.silva\source\repos\AprendendoAbstractFactory_Desafio\AprendendoAbstractFactory_Desafio\obj\Debug\net6.0\AprendendoAbstractFactory_Desafio.csproj.CoreCompileInputs.cache
+C:\Users\ester.silva\source\repos\AprendendoAbstractFactory_Desafio\AprendendoAbstractFactory_Desafio\obj\Debug\net6.0\AprendendoAbstractFactory_Desafio.dll
+C:\Users\ester.silva\source\repos\AprendendoAbstractFactory_Desafio\AprendendoAbstractFactory_Desafio\obj\Debug\net6.0\ref\AprendendoAbstractFactory_Desafio.dll
+C:\Users\ester.silva\source\repos\AprendendoAbstractFactory_Desafio\AprendendoAbstractFactory_Desafio\obj\Debug\net6.0\AprendendoAbstractFactory_Desafio.pdb
+C:\Users\ester.silva\source\repos\AprendendoAbstractFactory_Desafio\AprendendoAbstractFactory_Desafio\obj\Debug\net6.0\AprendendoAbstractFactory_Desafio.genruntimeconfig.cache
